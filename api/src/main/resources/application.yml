@@ -1,0 +1,13 @@
+server:
+  port: 8097
+spring:
+  data:
+    mongodb:
+      database: cajero
+      port: 27017
+  kafka:
+      bootstrap-servers: 35.188.135.69:9092
+      consumer:
+        group-id=0:
+
+
