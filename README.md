@@ -1,4 +1,3 @@
-# SpringBoot Kafka
 # CONFIGURACION KAFKA
 ## LEVANTO EL ZOOKEPER
 ###### bin/zookeeper-server-start.sh config/zookeeper.properties
