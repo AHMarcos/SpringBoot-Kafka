@@ -1,0 +1,11 @@
+server:
+  port: 8089
+spring:
+  data:
+    mongodb:
+      database: billetera
+      port: 27017
+  kafka:
+    bootstrap-servers: 35.188.135.69:9092
+    listener:
+      group-id=0:
